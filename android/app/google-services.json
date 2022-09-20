@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "756608783482",
+    "project_id": "flutter-app-12f06",
+    "storage_bucket": "flutter-app-12f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756608783482:android:21ee4525155ca2cbd457c3",
+        "android_client_info": {
+          "package_name": "com.example.franklin_training_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756608783482-fnou24op4j1eei14vk77vd8aumksd6lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvjuft5kQp1EAEHKDgD_HS4V0X-ynfsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756608783482-fnou24op4j1eei14vk77vd8aumksd6lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756608783482:android:86a8c94bf29fe26ad457c3",
+        "android_client_info": {
+          "package_name": "com.example.pdf_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756608783482-fnou24op4j1eei14vk77vd8aumksd6lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvjuft5kQp1EAEHKDgD_HS4V0X-ynfsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756608783482-fnou24op4j1eei14vk77vd8aumksd6lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
